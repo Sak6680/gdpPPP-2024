@@ -39,7 +39,7 @@
     "gdp-22": 4900.292,
     "gdp-22-23": 296.231,
     "code": "Central Asia and the Caucasus",
-    "country": "Central Asia and the Caucasus",
+    "country": "Central Asia & Caucasus",
     "now-pc": 28478.004,
     "gdp-pc-22": 27249.453,
     "gdp-pc-22-23": 1228.551
@@ -138,7 +138,7 @@
     "gdp-22": 5358.083,
     "gdp-22-23": 354.36,
     "code": "Sub-Saharan Africa (Region)",
-    "country": "Sub-Saharan Africa (Region)",
+    "country": "Sub-Saharan Africa(R)",
     "now-pc": 4798.841,
     "gdp-pc-22": 4627.353,
     "gdp-pc-22-23": 171.488
@@ -156,7 +156,7 @@
     "gdp-22": 40574.555,
     "gdp-22-23": 1700.007,
     "code": "Western Hemisphere (Region)",
-    "country": "Western Hemisphere Region",
+    "country": "Western Hemisphere(R)",
     "now-pc": 41540.177,
     "gdp-pc-22": 40175.586,
     "gdp-pc-22-23": 1364.591
@@ -183,7 +183,7 @@
     "gdp-22": 12226.529,
     "gdp-22-23": 587.364,
     "code": "Latin America and the Caribbean",
-    "country": "Latin America & Caribbean",
+    "country": "America & Caribbean",
     "now-pc": 20034.394,
     "gdp-pc-22": 19284.41,
     "gdp-pc-22-23": 749.984
